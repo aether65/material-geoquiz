@@ -107,7 +107,7 @@ Você precisa do [Node.js](https://nodejs.org/) (versão LTS recomendada) e de u
 
 1. Clone o repositório e entre na pasta:
    ```bash
-   git clone https://github.com/SEU-USUARIO/geoquiz.git
+   git clone https://github.com/aether65/material-geoquiz.git
    cd geoquiz
    ```
 2. Instale as dependências:
